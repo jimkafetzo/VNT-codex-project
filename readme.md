@@ -8,4 +8,5 @@ VNT is a custom audio codec that is designed for embedded systems with limited r
 How it works: 
 
 Its based on the <stdint.h> library and uses linear interpolation, thus securing compatibility with most devices.
+For now it only supports clean 16bit wav files at 44.1kHz with stereo or mono sound
 
